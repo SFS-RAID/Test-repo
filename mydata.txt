@@ -1,2 +1,2 @@
-Money = 7568
-name = me
+Money = 6444
+name = farhan
